@@ -1,0 +1,24 @@
+body {
+    background-color: #FFCF9D;
+}
+h1 {
+    color: #5F1B00;
+}
+h2 {
+    color: #5F1B00;
+}
+h3 {
+    color: #5F1B00;
+}
+p {
+    color: #5F1B00;
+}
+li {
+    color: #5F1B00;
+}
+hr {
+    border: none;
+    height: 1px; /* Adjust the height as needed */
+    background-color:#5F1B00; /* Set the desired color */
+    margin: 20px 0; /* Add some spacing above and below the hr */
+}
